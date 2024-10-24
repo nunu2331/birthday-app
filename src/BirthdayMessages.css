@@ -1,0 +1,29 @@
+.birthday-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+  min-height: 100vh;
+}
+
+.message-container {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.message {
+  font-size: 18px;
+  color: #333;
+  font-style: italic;
+}
+
+.gif-container {
+  margin-bottom: 20px;
+}
+
+.gif {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
